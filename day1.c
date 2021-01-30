@@ -15,5 +15,5 @@ if(number==result)
 printf(" The number is a palindrome");
 else
 printf(" The number is not a palindrome");
-return 0;
+return 0; 
 }
