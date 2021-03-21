@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
    int n;
     int median1=0,median2=0,median;
