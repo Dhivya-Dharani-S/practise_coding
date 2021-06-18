@@ -1,0 +1,5 @@
+If we call main funtion inside main function , we may think that it will run infinite times , but it is not like that in this case.
+function calls are always put into stack. So when we call main it will continuously put into the stack. 
+When the stack overflow occurs, the compiler gived you the error message . 
+
+/*  A small tip */
