@@ -16,4 +16,4 @@ Sample Output
 EXPLANATION:
 Here First we found out the max element in the given vector...Then we subtract the max height with the given max height  where the man 
 can able to jump...if the maximum hurdle the man can jump exceeds the max height then we print out the subtracted height, otherwise print 0
-*/
+*/  
