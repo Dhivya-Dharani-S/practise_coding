@@ -23,4 +23,5 @@ Input
 Output  
 1 --->no.of.apples within the range s and t
 1 --->no.of.oranges within the range s and t
+                                  
 */
