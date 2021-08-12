@@ -28,7 +28,7 @@ return result;
 Sample Output 
 2 4
 */
-/* Explanation:-
+/* Explanation:-      
 Game ---> 0   1   2   3   4   5   6   7   8
 scores--> 10  5   20  20  4   5   2   25   1
 Highest-> 10  10  20  20  20  20  20  25  25   ---> 20,25 -->2 max numbers
