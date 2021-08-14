@@ -29,5 +29,5 @@ int main(){
     isc.isosceles();//in that child class function is called
   	isc.description();// In same class another function is called
     isc.triangle();//using child class object , we are trying to access parent function
-    return 0;
+    return 0;        
 }        
