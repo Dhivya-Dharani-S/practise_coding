@@ -15,7 +15,7 @@ Sample Input
 12
 1012
 Sample Output
-2
+2                                      
 3
 EXPLANATION: Here we splitted the number and we check whether that splitted number is divisible by the whole number (n) 
 and if it is, then we increase the count...
