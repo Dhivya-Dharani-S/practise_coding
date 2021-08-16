@@ -2,7 +2,7 @@
 #define size 10
 struct stack
 {
-int s[size];
+int s[size];       
 int top;
 } st;
 int stfull()
